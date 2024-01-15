@@ -1,0 +1,49 @@
+2021-10-09 12:19:36,412 - INFO - scale_data - Scaling the numpy array Successfully
+2022-08-28 10:31:31,274 - INFO - __init__ - Initilization Scaling Class
+2022-08-28 10:31:31,275 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:31,275 - INFO - __init__ - Scaler Model loaded Successfully
+2022-08-28 10:31:31,275 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:32,787 - INFO - __init__ - Scaler model loaded Successfully
+2022-08-28 10:31:43,314 - INFO - __init__ - Initilization Scaling Class
+2022-08-28 10:31:43,315 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:43,315 - INFO - __init__ - Scaler Model loaded Successfully
+2022-08-28 10:31:43,315 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:44,294 - INFO - __init__ - Scaler model loaded Successfully
+2022-08-28 10:31:45,393 - INFO - __init__ - Initilization Scaling Class
+2022-08-28 10:31:45,393 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:45,393 - INFO - __init__ - Scaler Model loaded Successfully
+2022-08-28 10:31:45,393 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:46,366 - INFO - __init__ - Scaler model loaded Successfully
+2022-08-28 10:31:51,670 - INFO - __init__ - Initilization Scaling Class
+2022-08-28 10:31:51,671 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:51,671 - INFO - __init__ - Scaler Model loaded Successfully
+2022-08-28 10:31:51,671 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:52,777 - INFO - __init__ - Scaler model loaded Successfully
+2022-08-28 10:32:24,558 - INFO - scale_data - Data is valid
+2022-08-28 10:32:24,558 - INFO - scale_data - Scaling the numpy array
+2022-08-28 10:32:24,559 - INFO - scale_data - Scaling the numpy array Successfully
+2022-08-28 10:32:26,671 - INFO - __init__ - Initilization Scaling Class
+2022-08-28 10:32:26,671 - INFO - __init__ - Loading scaler model
+2022-08-28 10:32:26,671 - INFO - __init__ - Scaler Model loaded Successfully
+2022-08-28 10:32:26,672 - INFO - __init__ - Loading scaler model
+2022-08-28 10:32:27,672 - INFO - __init__ - Scaler model loaded Successfully
+2024-01-15 13:49:08,180 - INFO - __init__ - Initilization Scaling Class
+2024-01-15 13:49:08,180 - INFO - __init__ - Loading scaler model
+2024-01-15 13:49:08,180 - INFO - __init__ - Scaler Model loaded Successfully
+2024-01-15 13:49:08,180 - INFO - __init__ - Loading scaler model
+2024-01-15 13:49:08,180 - ERROR - __init__ - Error in Initialization Scaling Class
+2024-01-15 13:49:08,180 - ERROR - __init__ - [Errno 2] No such file or directory: 'Saved_models\\Scaler.pkl'
+2024-01-15 13:49:08,573 - INFO - __init__ - Initilization Scaling Class
+2024-01-15 13:49:08,573 - INFO - __init__ - Loading scaler model
+2024-01-15 13:49:08,573 - INFO - __init__ - Scaler Model loaded Successfully
+2024-01-15 13:49:08,573 - INFO - __init__ - Loading scaler model
+2024-01-15 13:49:08,573 - ERROR - __init__ - Error in Initialization Scaling Class
+2024-01-15 13:49:08,573 - ERROR - __init__ - [Errno 2] No such file or directory: 'Saved_models\\Scaler.pkl'
+2024-01-15 13:51:00,431 - INFO - scale_data - Data is valid
+2024-01-15 13:51:00,431 - INFO - scale_data - Scaling the numpy array
+2024-01-15 13:51:00,431 - ERROR - scale_data - Error in Scaling the numpy array
+2024-01-15 13:51:00,431 - ERROR - scale_data - 'Scaler' object has no attribute 'scaler_model'
+2024-01-15 13:51:45,353 - INFO - scale_data - Data is valid
+2024-01-15 13:51:45,353 - INFO - scale_data - Scaling the numpy array
+2024-01-15 13:51:45,353 - ERROR - scale_data - Error in Scaling the numpy array
+2024-01-15 13:51:45,353 - ERROR - scale_data - 'Scaler' object has no attribute 'scaler_model'

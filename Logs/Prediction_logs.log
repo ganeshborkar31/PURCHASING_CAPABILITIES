@@ -1,0 +1,25 @@
+2021-10-09 12:19:36,413 - INFO - cluster_predict - Predicted cluster [0]
+2022-08-28 10:31:32,788 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-08-28 10:31:33,248 - INFO - __init__ - Cluster Model loaded
+2022-08-28 10:31:44,294 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-08-28 10:31:44,416 - INFO - __init__ - Cluster Model loaded
+2022-08-28 10:31:46,367 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-08-28 10:31:46,522 - INFO - __init__ - Cluster Model loaded
+2022-08-28 10:31:52,777 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-08-28 10:31:52,920 - INFO - __init__ - Cluster Model loaded
+2022-08-28 10:32:24,559 - INFO - cluster_predict - Predicting cluster for data
+2022-08-28 10:32:24,566 - INFO - cluster_predict - Predicted cluster [0]
+2022-08-28 10:32:27,672 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-08-28 10:32:27,787 - INFO - __init__ - Cluster Model loaded
+2024-01-15 13:49:08,180 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2024-01-15 13:49:08,180 - ERROR - __init__ - Error occured while loading model
+2024-01-15 13:49:08,180 - ERROR - __init__ - [Errno 2] No such file or directory: 'Saved_models\\cluster_model.pkl'
+2024-01-15 13:49:08,573 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2024-01-15 13:49:08,573 - ERROR - __init__ - Error occured while loading model
+2024-01-15 13:49:08,573 - ERROR - __init__ - [Errno 2] No such file or directory: 'Saved_models\\cluster_model.pkl'
+2024-01-15 13:51:00,431 - INFO - cluster_predict - Predicting cluster for data
+2024-01-15 13:51:00,432 - ERROR - cluster_predict - Error occured while predicting cluster
+2024-01-15 13:51:00,432 - ERROR - cluster_predict - 'Predict' object has no attribute 'cluster_model'
+2024-01-15 13:51:45,353 - INFO - cluster_predict - Predicting cluster for data
+2024-01-15 13:51:45,353 - ERROR - cluster_predict - Error occured while predicting cluster
+2024-01-15 13:51:45,353 - ERROR - cluster_predict - 'Predict' object has no attribute 'cluster_model'
