@@ -1,1 +1,30 @@
 # PURCHASING_CAPABILITIES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## LICENSE
+[MIT LICENSE](LICENSE)
