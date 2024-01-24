@@ -36,7 +36,7 @@
 #### 2.[LLD](https://github.com/ganesh-borkar/PURCHASING_CAPABILITIES/blob/main/Documents/Low_Level_Design_.pdf)
 #### 3.[Wireframe](https://github.com/ganesh-borkar/PURCHASING_CAPABILITIES/blob/main/Documents/wireframe.pdf)
 #### 4.[DPR](https://github.com/ganesh-borkar/PURCHASING_CAPABILITIES/blob/main/Documents/DPR.pptx)
-#### 5.[Linkedin Post](https://www.linkedin.com/posts/ganeshborkar31-
+#### 5.[Linkedin Post](https://www.linkedin.com/posts/ganeshborkar31/details/projects/
 
 
 
